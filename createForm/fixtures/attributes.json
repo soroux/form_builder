@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "int",
+    "fa_name": "عددی",
+    "min": 1,
+    "max": 1,
+    "default": 1,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 2,
+    "name": "string",
+    "fa_name": "متن",
+    "min": 0,
+    "max": 0,
+    "default": 1,
+    "max_length": 1,
+    "min_length": 1
+  },
+  {
+    "id": 3,
+    "name": "bool",
+    "fa_name": "صحیح غلط",
+    "min": 0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 4,
+    "name": "multiselect",
+    "fa_name": "چند انتخابی",
+    "min": 0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 5,
+    "name": "select",
+    "fa_name": "تک انتخابی",
+    "min":0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 6,
+    "name": "map",
+    "fa_name": "نقشه",
+    "min": 0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 7,
+    "name": "tag",
+    "fa_name": "برچسب",
+    "min": 0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  },
+  {
+    "id": 8,
+    "name": "city",
+    "fa_name": "شهر",
+    "min": 0,
+    "max": 0,
+    "default": 0,
+    "max_length": 0,
+    "min_length": 0
+  }
+]
